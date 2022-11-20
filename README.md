@@ -52,7 +52,7 @@ graph LR;
 # Analyzing the algorithm
 Algorithm runs through a sequence of n-iterations and in the i<sup>th</sup> iteration, algorithm now looks at the part of index i onwards to locate the smallest index and put it into the sorted region.
 # Efficiency
-OS dependent, hardware dependent and variations in some languages can affect efficiency. Focus should  then be on system independent factors.
+OS dependent, hardware dependent and variations in some languages can affect efficiency. Focus should  then be on system independent factors. Hence defining the size of the input would help in determining running time.
 ## Asymptotic Time Complexity
 
 
