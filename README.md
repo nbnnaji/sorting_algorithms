@@ -1,5 +1,5 @@
-# Selection Sort
-:+1: Simplest form of sorting by interating through the list multiple times until all the elements in the list are sorted.
+# Selection Sort: Brute Force approach
+:+1: Simplest form of sorting by interating through the list multiple times until all the elements in the list are sorted.By scanning the array from left to right and keeping track of the minimum elements, the array is sorted.
 
 # Psuedocode
 
