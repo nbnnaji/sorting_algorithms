@@ -1,4 +1,4 @@
-# Brute Force Selection Sort
+# Selection Sort
 :+1: Simplest form of sorting by interating through the list multiple times until all the elements in the list are sorted.
 
 # Psuedocode
